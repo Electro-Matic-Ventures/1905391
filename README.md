@@ -9,3 +9,4 @@ version | changes | up next
 1905391_000_002 | create project structure (display, middleware, data) | row and cell objects
 1905391_000_003 | wire page row objects | navigation tabs
 1905391_000_004 | navigation tabs | material page row objects
+1905391_000_005 | material page row objects | divider class
