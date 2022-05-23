@@ -22,5 +22,5 @@ version | changes | up next
 1905391_000_015 | animations instantiated in hmi class | screen_background class
 1905391_000_016 | screen_background hmi objects | screen_background methods in first scan logic
 1905391_000_017 | row_data class | row_custom class
-1905391_000_018 | row_custom class | data class
-1905391_000_018 | data class | middleware class
+1905391_000_018 | row_custom class | get communications diagnostic page
+1905391_000_019 | et communications diagnostic page | middleware class
